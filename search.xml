@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>vsCode</title>
+      <link href="/2022/11/29/vsCode/"/>
+      <url>/2022/11/29/vsCode/</url>
+      
+        <content type="html"><![CDATA[<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h2 id="javaScript"><a href="#javaScript" class="headerlink" title="javaScript"></a>javaScript</h2><blockquote><p>JavaScript (ES6) code snippets &#x2F;&#x2F; es6 代码检查<br>Quokka.js &#x2F;&#x2F; 快速计算</p><p>ES7+ React&#x2F;Redux&#x2F;React-Native snippet</p><p>JavaScript Code Snippet</p><p>JS JSX Snippets</p></blockquote><h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><blockquote><p>auto close tag &#x2F;&#x2F; 自动闭合</p><p>Auto Rename Tag &#x2F;&#x2F; 标签名称</p><p>HTML CSS Support</p><p>Live Server &#x2F;&#x2F; html 本地运行</p><p>open in browser &#x2F;&#x2F; 同上类似</p></blockquote><h2 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h2><blockquote><p>color-highlight &#x2F;&#x2F; 输入色值展示颜色</p><p>Sass&#x2F;Less&#x2F;Scss&#x2F;Typescript&#x2F;Javascript&#x2F;Jade&#x2F;Pug Compile Hero Pro &#x2F;&#x2F; 生成 css&#x2F;js</p><p>Less IntelliSense &#x2F;&#x2F; less 变量与混合提示</p></blockquote><h2 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h2><blockquote><p>beautify &#x2F;&#x2F; 代码格式化</p><p>Prettier - Code formatter &#x2F;&#x2F; 格代码格式化</p><p>Trailing Spaces &#x2F;&#x2F;去除多余空格</p></blockquote><h2 id="GIT-x2F-NPM"><a href="#GIT-x2F-NPM" class="headerlink" title="GIT &#x2F; NPM"></a>GIT &#x2F; NPM</h2><blockquote><p>Git Graph</p><p>GitLens</p><p>npm</p></blockquote><h2 id="框架提示"><a href="#框架提示" class="headerlink" title="框架提示"></a>框架提示</h2><blockquote><p>Vetur &#x2F;&#x2F;vue 高亮</p><p>Vue 2 Snippets</p><p>VueHelper &#x2F;&#x2F; Vue2 代码段（包括 Vue2 api、vue-router2、vuex2）</p><p>Ant Design Vue helper</p><p>uni-app-snippets</p><p>TypeScript Vue Plugin (Volar)</p><p>Vant Snippets</p><p>Vue 3 Snippets</p><p>Vue Language Features (Volar)</p><p>wechat-snippet</p><p>WindiCSS IntelliSense &#x2F;&#x2F; tailwindcss</p></blockquote><h2 id="增强开发"><a href="#增强开发" class="headerlink" title="增强开发"></a>增强开发</h2><blockquote><p>Bracket Pair Colorizer &#x2F;&#x2F;括号颜色</p><p>Chinese (Simplified) Language Pack for Visual Studio Code &#x2F;&#x2F; vscode 中文插件</p><p>koroFileHeader &#x2F;&#x2F;文件&#x2F;函数头部注释</p><p>Todo Tree &#x2F;&#x2F; todotree</p><p>Hopscotch &#x2F;&#x2F;代码颜色关键字词的颜色不同</p><p>Import Cost &#x2F;&#x2F; 导入包的大小</p><p>Path Intellisense &#x2F;&#x2F; 地址提示</p><p>px to rem &amp; rpx (cssrem) &#x2F;&#x2F; px 转 rem</p><p>Indenticator &#x2F;&#x2F; 缩进高亮</p><p>Package Json Upgrade &#x2F;&#x2F; 更新最新包</p><p>Code Spell Checker &#x2F;&#x2F; 单词检查</p><p>javascript console utils &#x2F;&#x2F; 快捷 console</p><p>GitHub Copilot &#x2F;&#x2F; AI 机器人(收费)</p><p>Project Manager &#x2F;&#x2F; 多个项目管理</p></blockquote><h2 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h2><blockquote><p>Material Icon Theme &#x2F;&#x2F; 图标</p><p>Monokai Pro &#x2F;&#x2F;主题</p><p>Power Mode&#x2F;&#x2F;输入爆炸效果</p><p>Colorful Comments &#x2F;&#x2F;彩色的注释</p><p>Windows opacity &#x2F;&#x2F; 窗口透明</p></blockquote><h2 id="摸🐟"><a href="#摸🐟" class="headerlink" title="摸🐟"></a>摸🐟</h2><blockquote><p>NBA real-time score &#x2F;&#x2F; 看nba比赛必备</p><p>z-reader &#x2F;&#x2F; 看小说</p><p>daily-anime &#x2F;&#x2F; 每天更新番剧时间</p><p>Random Something &#x2F;&#x2F; 随机产生新闻、人名等…</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编译器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编译器 </tag>
+            
+            <tag> 开发工具 </tag>
+            
+            <tag> vscode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端面试题收集</title>
+      <link href="/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/"/>
+      <url>/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h1><ol><li>什么是事件循环</li><li>什么是原型链</li><li>async&#x2F;await 原理</li><li>深拷贝和浅拷贝(也会问到JSON.stringify JSON.parse这种方案的弊端)</li><li>箭头函数和普通函数有什么区别</li><li>map &amp; set 区别、实现原理</li><li>实现一个call&#x2F;bind(call,apply,bind区别)</li><li>什么是yield</li><li>Object.defineProperties都有那些参数,以及参数解释</li><li>使用过requestAnimation么？做什么的？</li><li>编写原型链和js各种继承模式</li><li>如何遍历对象</li><li>索框输入需要注意的点（防抖）</li><li>原生实现inserAfter</li><li>事件委托应用场景，e.target和e.currentTarget区别</li><li>new过程都发生了什么</li><li>promise(基本上要求可以手写Promise.all方法,这个问的最多)</li><li>Null&#x2F;undefault区别</li><li>Ajax 实现</li><li>es5实现let const</li><li>什么是闭包</li></ol><h1 id="Css"><a href="#Css" class="headerlink" title="Css"></a>Css</h1><ol><li>响应式页面布局有哪些方式</li><li>chrome设置小于12px字体</li><li>什么是盒子模型</li><li>flex使用</li><li>grid使用</li><li>移动端实现1px</li></ol><h1 id="Vue"><a href="#Vue" class="headerlink" title="Vue"></a>Vue</h1><ol><li>vue响应式原理</li><li>vue3解决什么问题</li><li>Vue 为什么不能检测数组和对象的变化,怎么处理(为什么通过索引操作数组不能触发响应式)</li><li>vue router原理</li><li>vue路由钩子</li><li>v-model实现原理</li><li>vue.nextTick</li><li>vue 和 react 在虚拟dom的diff上，做了哪些改进使得速度很快?</li><li>vue 和 react 里的key的作用是什么? 为什么不能用Index？用了会怎样? 如果不加key会怎样?</li><li>vue 双向绑定的原理是什么?</li><li>vue 的keep-alive的作用是什么？怎么实现的？如何刷新的?</li><li>vue 是怎么解析template的? template会变成什么?</li><li>如何解析指令? 模板变量? html标签</li><li>用过vue 的render吗? render和template有什么关系</li><li>vue中key的作用</li><li>vue计算数学</li></ol><h1 id="HTTP"><a href="#HTTP" class="headerlink" title="HTTP"></a>HTTP</h1><ol><li>HTTP缓存，对应字段，cache-contron都有那些值</li><li>从输入url到看到页面经历的所有事情</li><li>https的过程</li><li>get 和 post 的区别</li><li>跨域如何解决</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> css </tag>
+            
+            <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大屏设计</title>
+      <link href="/2022/11/23/%E5%A4%A7%E5%B1%8F%E5%93%8D%E5%BA%94%E5%BC%8F/"/>
+      <url>/2022/11/23/%E5%A4%A7%E5%B1%8F%E5%93%8D%E5%BA%94%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="less-x2F-scss"><a href="#less-x2F-scss" class="headerlink" title="less&#x2F;scss"></a>less&#x2F;scss</h1><figure class="highlight scss"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$base_width</span>: <span class="number">1920</span>;</span><br><span class="line"><span class="variable">$base_fontSize</span>: <span class="number">192</span>;</span><br><span class="line"></span><br><span class="line"><span class="keyword">@function</span> rem(<span class="variable">$px</span>) &#123;</span><br><span class="line">  <span class="keyword">@return</span> <span class="variable">$px</span> / <span class="variable">$base_fontSize</span> * <span class="number">1rem</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-class">.big-screen</span> &#123;</span><br><span class="line">  <span class="attribute">font-size</span>: (<span class="variable">$base_width</span> / <span class="variable">$base_fontSize</span>) * <span class="number">1vw</span>;</span><br><span class="line">  <span class="keyword">@media</span> screen <span class="keyword">and</span> (<span class="attribute">max-width</span>: <span class="number">1200px</span>) &#123;</span><br><span class="line">    <span class="attribute">font-size</span>: <span class="number">120px</span>;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">height</span>: <span class="number">100%</span>;</span><br><span class="line">  <span class="attribute">min-width</span>: <span class="number">1200px</span>;</span><br><span class="line">  <span class="attribute">min-height</span>: <span class="number">768px</span>;</span><br><span class="line">  <span class="attribute">background-color</span>: <span class="number">#0b1b41</span>;</span><br><span class="line">  <span class="attribute">background-size</span>: <span class="number">100%</span> <span class="number">100%</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h8fcxj5erkj20qc0jggq9.jpg"><br><a href="https://www.zhihu.com/question/29739332">引用</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
+            
+            <tag> 响应式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>滚动条</title>
+      <link href="/2022/11/22/%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/"/>
+      <url>/2022/11/22/%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h1><p>::-webkit-scrollbar 滚动条整体部分，可以设置宽度啥的<br>::-webkit-scrollbar-button 滚动条两端的按钮<br>::-webkit-scrollbar-track 外层轨道<br>::-webkit-scrollbar-track-piece 内层滚动槽<br>::-webkit-scrollbar-thumb 滚动的滑块<br>::-webkit-scrollbar-corner 边角<br>::-webkit-resizer 定义右下角拖动块的样式</p><p>::-webkit-scrollbar { &#x2F;_ 1 <em>&#x2F; }<br>::-webkit-scrollbar-button { &#x2F;</em> 2 <em>&#x2F; }<br>::-webkit-scrollbar-track { &#x2F;</em> 3 <em>&#x2F; }<br>::-webkit-scrollbar-track-piece { &#x2F;</em> 4 <em>&#x2F; }<br>::-webkit-scrollbar-thumb { &#x2F;</em> 5 <em>&#x2F; }<br>::-webkit-scrollbar-corner { &#x2F;</em> 6 <em>&#x2F; }<br>::-webkit-resizer { &#x2F;</em> 7 _&#x2F; }</p><p>:horizontal  水平方向的滚动条<br>:vertical  垂直 方向的滚动条<br>:decrement  应用于按钮和内层轨道(track piece)。它用来指示按钮或者内层轨道是否会减小视窗的位置(比如，垂直滚动条的上面，水平滚动条的左边。)<br>:increment decrement 类似，用来指示按钮或内层轨道是否会增大视窗的位置(比如，垂直滚动条的下面和水平滚动条的右边。)<br>:start  伪类也应用于按钮和滑块。它用来定义对象是否放到滑块的前面。<br>:end  类似于 start 伪类，标识对象是否放到滑块的后面。<br>:double-button  该伪类以用于按钮和内层轨道。用于判断一个按钮是不是放在滚动条同一端的一对按钮中的一个。对于内层轨道来说，它表示内层轨道是否紧靠一对按钮。<br>:single-button  类似于 double-button 伪类。对按钮来说，它用于判断一个按钮是否自己独立的在滚动条的一段。对内层轨道来说，它表示内层轨道是否紧靠一个 single-button。<br>:no-button  用于内层轨道，表示内层轨道是否要滚动到滚动条的终端，比如，滚动条两端没有按钮的时候。<br>:corner-present  用于所有滚动条轨道，指示滚动条圆角是否显示。<br>:window-inactive  用于所有的滚动条轨道，指示应用滚动条的某个页面容器(元素)是否当前被激活。(在 webkit 最近的版本中，该伪类也可以用于::selection 伪元素。webkit 团队有计划扩展它并推动成为一个标准的伪类)</p><img class="inline-img" src="/%5Bhttps:/tva1.sinaimg.cn/large/7fa1293cly1h8ea5w4xiwj22yb1n5e6y.jpg%5D" style="height:[50]"/><p>*::-webkit-scrollbar { &#x2F;<em>滚动条整体样式</em>&#x2F; width: 8px;&#x2F;<em>定义纵向滚动条宽度</em>&#x2F; height: 8px;&#x2F;<em>定义横向滚动条高度</em>&#x2F; }<br>*::-webkit-scrollbar-thumb { &#x2F;<em>滚动条内部滑块</em>&#x2F; border-radius: 8px; background-color: hsla(220, 4%, 58%, 0.3); transition: background-color 0.3s; }<br>*::-webkit-scrollbar-thumb:hover { &#x2F;<em>鼠标悬停滚动条内部滑块</em>&#x2F; background: #bbb; }<br>*::-webkit-scrollbar-track { &#x2F;<em>滚动条内部轨道</em>&#x2F; background: #ededed; }</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
+            
+            <tag> 滚动条 </tag>
+            
+            <tag> 浏览器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
