@@ -33,6 +33,62 @@
     
     
     <entry>
+      <title>uniApp导入彩色iconFont</title>
+      <link href="/2022/12/13/uniApp%E5%AF%BC%E5%85%A5%E5%BD%A9%E8%89%B2iconFont/"/>
+      <url>/2022/12/13/uniApp%E5%AF%BC%E5%85%A5%E5%BD%A9%E8%89%B2iconFont/</url>
+      
+        <content type="html"><![CDATA[<h1 id="建立-iconFont-仓库"><a href="#建立-iconFont-仓库" class="headerlink" title="建立 iconFont 仓库"></a>建立 iconFont 仓库</h1><ol><li>登录<a href="https://www.iconfont.cn/">iconfont 官网</a>，如果需要注册请先注册</li><li>资源管理 -&gt; 我的项目 -&gt; 新建项目</li></ol><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h9ko89p9r3j20zz0kpjz5.jpg" alt="QQ截图20221229143602.png"></p><ol start="3"><li>选择适合需要的 icon 添加到项目中</li><li>下载至本地</li></ol><h1 id="在文件中操作"><a href="#在文件中操作" class="headerlink" title="在文件中操作"></a>在文件中操作</h1><ol><li>解压下载的 zpi，进入下载文件夹中</li><li>在文件夹空白的地方右键-&gt; 在终端中打开</li><li><strong>输入命令</strong></li></ol><blockquote><p>npm install -g iconfont-tools</p></blockquote><ol start="4"><li>等待以上命令运行完成，在执行</li></ol><blockquote><p>iconfont-tools</p></blockquote><ol start="5"><li>控制终端会让填入文件夹名称等设置，可以一直回车直至结束</li><li>完成之后，文件夹中会多出一个文件夹，进入文件夹</li></ol><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h9koq4mwavj20ng0d0jvy.jpg" alt="QQ截图20221229145409.png"></p><ol start="7"><li>找到<code>iconfont-weapp-icon.css</code>文件</li></ol><h1 id="导入项目中"><a href="#导入项目中" class="headerlink" title="导入项目中"></a>导入项目中</h1><ol><li>在项目中找一个放置 iconfont 文件的位置</li><li>我存放位置在 static 文件夹下</li><li>将<code>iconfont-weapp-icon.css</code>文件复制进去，当然 iconFont 下载下来的文件也需要导入即：</li></ol><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h9kount8ckj20m70cfgq2.jpg" alt="QQ截图20221229145835.png"></p><ol start="4"><li>最后呈现的文件夹下内容有</li></ol><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h9kovfkspuj20bz08s75m.jpg" alt="QQ截图20221229145921.png"></p><h1 id="PS"><a href="#PS" class="headerlink" title="PS"></a>PS</h1><p><strong>千万别忘记，在 app.vue 文件中导入样式哦~</strong></p><p><img src="https://tva1.sinaimg.cn/large/7fa1293cly1h9kox6ekoij20jj02ywga.jpg" alt="QQ截图20221229150106.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> uniApp </tag>
+            
+            <tag> iconfont </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端面试题收集</title>
+      <link href="/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/"/>
+      <url>/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h1><ol><li>什么是事件循环</li><li>什么是原型链</li><li>async&#x2F;await 原理</li><li>深拷贝和浅拷贝(也会问到JSON.stringify JSON.parse这种方案的弊端)</li><li>箭头函数和普通函数有什么区别</li><li>map &amp; set 区别、实现原理</li><li>实现一个call&#x2F;bind(call,apply,bind区别)</li><li>什么是yield</li><li>Object.defineProperties都有那些参数,以及参数解释</li><li>使用过requestAnimation么？做什么的？</li><li>编写原型链和js各种继承模式</li><li>如何遍历对象</li><li>搜索框输入需要注意的点（防抖）</li><li>原生实现inserAfter</li><li>事件委托应用场景，e.target和e.currentTarget区别</li><li>new过程都发生了什么</li><li>promise(基本上要求可以手写Promise.all方法,这个问的最多)</li><li>Null&#x2F;undefault区别</li><li>Ajax 实现</li><li>es5实现let const</li><li>什么是闭包</li></ol><h1 id="Css"><a href="#Css" class="headerlink" title="Css"></a>Css</h1><ol><li>响应式页面布局有哪些方式</li><li>chrome设置小于12px字体</li><li>什么是盒子模型</li><li>flex使用</li><li>grid使用</li><li>移动端实现1px</li></ol><h1 id="Vue"><a href="#Vue" class="headerlink" title="Vue"></a>Vue</h1><ol><li>vue响应式原理</li><li>vue3解决什么问题</li><li>Vue 为什么不能检测数组和对象的变化,怎么处理(为什么通过索引操作数组不能触发响应式)</li><li>vue router原理</li><li>vue路由钩子</li><li>v-model实现原理</li><li>vue.nextTick</li><li>vue 和 react 在虚拟dom的diff上，做了哪些改进使得速度很快?</li><li>vue 和 react 里的key的作用是什么? 为什么不能用Index？用了会怎样? 如果不加key会怎样?</li><li>vue 双向绑定的原理是什么?</li><li>vue 的keep-alive的作用是什么？怎么实现的？如何刷新的?</li><li>vue 是怎么解析template的? template会变成什么?</li><li>如何解析指令? 模板变量? html标签</li><li>用过vue 的render吗? render和template有什么关系</li><li>vue中key的作用</li><li>vue计算函数</li></ol><h1 id="HTTP"><a href="#HTTP" class="headerlink" title="HTTP"></a>HTTP</h1><ol><li>HTTP缓存，对应字段，cache-contron都有那些值</li><li>从输入url到看到页面经历的所有事情</li><li>https的过程</li><li>get 和 post 的区别</li><li>跨域如何解决</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> js </tag>
+            
+            <tag> 面试 </tag>
+            
+            <tag> css </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>vsCode</title>
       <link href="/2022/11/29/vsCode/"/>
       <url>/2022/11/29/vsCode/</url>
@@ -54,35 +110,6 @@
             <tag> 开发工具 </tag>
             
             <tag> vscode </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>前端面试题收集</title>
-      <link href="/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/"/>
-      <url>/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/</url>
-      
-        <content type="html"><![CDATA[<h1 id="JavaScript"><a href="#JavaScript" class="headerlink" title="JavaScript"></a>JavaScript</h1><ol><li>什么是事件循环</li><li>什么是原型链</li><li>async&#x2F;await 原理</li><li>深拷贝和浅拷贝(也会问到JSON.stringify JSON.parse这种方案的弊端)</li><li>箭头函数和普通函数有什么区别</li><li>map &amp; set 区别、实现原理</li><li>实现一个call&#x2F;bind(call,apply,bind区别)</li><li>什么是yield</li><li>Object.defineProperties都有那些参数,以及参数解释</li><li>使用过requestAnimation么？做什么的？</li><li>编写原型链和js各种继承模式</li><li>如何遍历对象</li><li>索框输入需要注意的点（防抖）</li><li>原生实现inserAfter</li><li>事件委托应用场景，e.target和e.currentTarget区别</li><li>new过程都发生了什么</li><li>promise(基本上要求可以手写Promise.all方法,这个问的最多)</li><li>Null&#x2F;undefault区别</li><li>Ajax 实现</li><li>es5实现let const</li><li>什么是闭包</li></ol><h1 id="Css"><a href="#Css" class="headerlink" title="Css"></a>Css</h1><ol><li>响应式页面布局有哪些方式</li><li>chrome设置小于12px字体</li><li>什么是盒子模型</li><li>flex使用</li><li>grid使用</li><li>移动端实现1px</li></ol><h1 id="Vue"><a href="#Vue" class="headerlink" title="Vue"></a>Vue</h1><ol><li>vue响应式原理</li><li>vue3解决什么问题</li><li>Vue 为什么不能检测数组和对象的变化,怎么处理(为什么通过索引操作数组不能触发响应式)</li><li>vue router原理</li><li>vue路由钩子</li><li>v-model实现原理</li><li>vue.nextTick</li><li>vue 和 react 在虚拟dom的diff上，做了哪些改进使得速度很快?</li><li>vue 和 react 里的key的作用是什么? 为什么不能用Index？用了会怎样? 如果不加key会怎样?</li><li>vue 双向绑定的原理是什么?</li><li>vue 的keep-alive的作用是什么？怎么实现的？如何刷新的?</li><li>vue 是怎么解析template的? template会变成什么?</li><li>如何解析指令? 模板变量? html标签</li><li>用过vue 的render吗? render和template有什么关系</li><li>vue中key的作用</li><li>vue计算数学</li></ol><h1 id="HTTP"><a href="#HTTP" class="headerlink" title="HTTP"></a>HTTP</h1><ol><li>HTTP缓存，对应字段，cache-contron都有那些值</li><li>从输入url到看到页面经历的所有事情</li><li>https的过程</li><li>get 和 post 的区别</li><li>跨域如何解决</li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 前端 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> js </tag>
-            
-            <tag> 面试 </tag>
-            
-            <tag> css </tag>
             
         </tags>
       
