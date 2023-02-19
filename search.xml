@@ -89,35 +89,6 @@
     
     
     <entry>
-      <title>vsCode</title>
-      <link href="/2022/11/29/vsCode/"/>
-      <url>/2022/11/29/vsCode/</url>
-      
-        <content type="html"><![CDATA[<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h2 id="javaScript"><a href="#javaScript" class="headerlink" title="javaScript"></a>javaScript</h2><blockquote><p>JavaScript (ES6) code snippets &#x2F;&#x2F; es6 代码检查<br>Quokka.js &#x2F;&#x2F; 快速计算</p><p>ES7+ React&#x2F;Redux&#x2F;React-Native snippet</p><p>JavaScript Code Snippet</p><p>JS JSX Snippets</p></blockquote><h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><blockquote><p>auto close tag &#x2F;&#x2F; 自动闭合</p><p>Auto Rename Tag &#x2F;&#x2F; 标签名称</p><p>HTML CSS Support</p><p>Live Server &#x2F;&#x2F; html 本地运行</p><p>open in browser &#x2F;&#x2F; 同上类似</p></blockquote><h2 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h2><blockquote><p>color-highlight &#x2F;&#x2F; 输入色值展示颜色</p><p>Sass&#x2F;Less&#x2F;Scss&#x2F;Typescript&#x2F;Javascript&#x2F;Jade&#x2F;Pug Compile Hero Pro &#x2F;&#x2F; 生成 css&#x2F;js</p><p>Less IntelliSense &#x2F;&#x2F; less 变量与混合提示</p></blockquote><h2 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h2><blockquote><p>beautify &#x2F;&#x2F; 代码格式化</p><p>Prettier - Code formatter &#x2F;&#x2F; 格代码格式化</p><p>Trailing Spaces &#x2F;&#x2F;去除多余空格</p></blockquote><h2 id="GIT-x2F-NPM"><a href="#GIT-x2F-NPM" class="headerlink" title="GIT &#x2F; NPM"></a>GIT &#x2F; NPM</h2><blockquote><p>Git Graph</p><p>GitLens</p><p>npm</p></blockquote><h2 id="框架提示"><a href="#框架提示" class="headerlink" title="框架提示"></a>框架提示</h2><blockquote><p>Vetur &#x2F;&#x2F;vue 高亮</p><p>Vue 2 Snippets</p><p>VueHelper &#x2F;&#x2F; Vue2 代码段（包括 Vue2 api、vue-router2、vuex2）</p><p>Ant Design Vue helper</p><p>uni-app-snippets</p><p>TypeScript Vue Plugin (Volar)</p><p>Vant Snippets</p><p>Vue 3 Snippets</p><p>Vue Language Features (Volar)</p><p>wechat-snippet</p><p>WindiCSS IntelliSense &#x2F;&#x2F; tailwindcss</p></blockquote><h2 id="增强开发"><a href="#增强开发" class="headerlink" title="增强开发"></a>增强开发</h2><blockquote><p>Bracket Pair Colorizer &#x2F;&#x2F;括号颜色</p><p>Chinese (Simplified) Language Pack for Visual Studio Code &#x2F;&#x2F; vscode 中文插件</p><p>koroFileHeader &#x2F;&#x2F;文件&#x2F;函数头部注释</p><p>Todo Tree &#x2F;&#x2F; todotree</p><p>Hopscotch &#x2F;&#x2F;代码颜色关键字词的颜色不同</p><p>Import Cost &#x2F;&#x2F; 导入包的大小</p><p>Path Intellisense &#x2F;&#x2F; 地址提示</p><p>px to rem &amp; rpx (cssrem) &#x2F;&#x2F; px 转 rem</p><p>Indenticator &#x2F;&#x2F; 缩进高亮</p><p>Package Json Upgrade &#x2F;&#x2F; 更新最新包</p><p>Code Spell Checker &#x2F;&#x2F; 单词检查</p><p>javascript console utils &#x2F;&#x2F; 快捷 console</p><p>GitHub Copilot &#x2F;&#x2F; AI 机器人(收费)</p><p>Project Manager &#x2F;&#x2F; 多个项目管理</p></blockquote><h2 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h2><blockquote><p>Material Icon Theme &#x2F;&#x2F; 图标</p><p>Monokai Pro &#x2F;&#x2F;主题</p><p>Power Mode&#x2F;&#x2F;输入爆炸效果</p><p>Colorful Comments &#x2F;&#x2F;彩色的注释</p><p>Windows opacity &#x2F;&#x2F; 窗口透明</p></blockquote><h2 id="摸🐟"><a href="#摸🐟" class="headerlink" title="摸🐟"></a>摸🐟</h2><blockquote><p>NBA real-time score &#x2F;&#x2F; 看nba比赛必备</p><p>z-reader &#x2F;&#x2F; 看小说</p><p>daily-anime &#x2F;&#x2F; 每天更新番剧时间</p><p>Random Something &#x2F;&#x2F; 随机产生新闻、人名等…</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 编译器 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 编译器 </tag>
-            
-            <tag> 开发工具 </tag>
-            
-            <tag> vscode </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>前端面试题收集</title>
       <link href="/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/"/>
       <url>/2022/11/29/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86/</url>
@@ -139,6 +110,35 @@
             <tag> 面试 </tag>
             
             <tag> css </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vsCode</title>
+      <link href="/2022/11/29/vsCode/"/>
+      <url>/2022/11/29/vsCode/</url>
+      
+        <content type="html"><![CDATA[<h1 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h1><h2 id="javaScript"><a href="#javaScript" class="headerlink" title="javaScript"></a>javaScript</h2><blockquote><p>JavaScript (ES6) code snippets &#x2F;&#x2F; es6 代码检查<br>Quokka.js &#x2F;&#x2F; 快速计算</p><p>ES7+ React&#x2F;Redux&#x2F;React-Native snippet</p><p>JavaScript Code Snippet</p><p>JS JSX Snippets</p></blockquote><h2 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h2><blockquote><p>auto close tag &#x2F;&#x2F; 自动闭合</p><p>Auto Rename Tag &#x2F;&#x2F; 标签名称</p><p>HTML CSS Support</p><p>Live Server &#x2F;&#x2F; html 本地运行</p><p>open in browser &#x2F;&#x2F; 同上类似</p></blockquote><h2 id="CSS"><a href="#CSS" class="headerlink" title="CSS"></a>CSS</h2><blockquote><p>color-highlight &#x2F;&#x2F; 输入色值展示颜色</p><p>Sass&#x2F;Less&#x2F;Scss&#x2F;Typescript&#x2F;Javascript&#x2F;Jade&#x2F;Pug Compile Hero Pro &#x2F;&#x2F; 生成 css&#x2F;js</p><p>Less IntelliSense &#x2F;&#x2F; less 变量与混合提示</p></blockquote><h2 id="格式化"><a href="#格式化" class="headerlink" title="格式化"></a>格式化</h2><blockquote><p>beautify &#x2F;&#x2F; 代码格式化</p><p>Prettier - Code formatter &#x2F;&#x2F; 格代码格式化</p><p>Trailing Spaces &#x2F;&#x2F;去除多余空格</p></blockquote><h2 id="GIT-x2F-NPM"><a href="#GIT-x2F-NPM" class="headerlink" title="GIT &#x2F; NPM"></a>GIT &#x2F; NPM</h2><blockquote><p>Git Graph</p><p>GitLens</p><p>npm</p></blockquote><h2 id="框架提示"><a href="#框架提示" class="headerlink" title="框架提示"></a>框架提示</h2><blockquote><p>Vetur &#x2F;&#x2F;vue 高亮</p><p>Vue 2 Snippets</p><p>VueHelper &#x2F;&#x2F; Vue2 代码段（包括 Vue2 api、vue-router2、vuex2）</p><p>Ant Design Vue helper</p><p>uni-app-snippets</p><p>TypeScript Vue Plugin (Volar)</p><p>Vant Snippets</p><p>Vue 3 Snippets</p><p>Vue Language Features (Volar)</p><p>wechat-snippet</p><p>WindiCSS IntelliSense &#x2F;&#x2F; tailwindcss</p></blockquote><h2 id="增强开发"><a href="#增强开发" class="headerlink" title="增强开发"></a>增强开发</h2><blockquote><p>Bracket Pair Colorizer &#x2F;&#x2F;括号颜色</p><p>Chinese (Simplified) Language Pack for Visual Studio Code &#x2F;&#x2F; vscode 中文插件</p><p>koroFileHeader &#x2F;&#x2F;文件&#x2F;函数头部注释</p><p>Todo Tree &#x2F;&#x2F; todotree</p><p>Hopscotch &#x2F;&#x2F;代码颜色关键字词的颜色不同</p><p>Import Cost &#x2F;&#x2F; 导入包的大小</p><p>Path Intellisense &#x2F;&#x2F; 地址提示</p><p>px to rem &amp; rpx (cssrem) &#x2F;&#x2F; px 转 rem</p><p>Indenticator &#x2F;&#x2F; 缩进高亮</p><p>Package Json Upgrade &#x2F;&#x2F; 更新最新包</p><p>Code Spell Checker &#x2F;&#x2F; 单词检查</p><p>javascript console utils &#x2F;&#x2F; 快捷 console</p><p>GitHub Copilot &#x2F;&#x2F; AI 机器人(收费)</p><p>Project Manager &#x2F;&#x2F; 多个项目管理</p></blockquote><h2 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h2><blockquote><p>Material Icon Theme &#x2F;&#x2F; 图标</p><p>Monokai Pro &#x2F;&#x2F;主题</p><p>Power Mode&#x2F;&#x2F;输入爆炸效果</p><p>Colorful Comments &#x2F;&#x2F;彩色的注释</p><p>Windows opacity &#x2F;&#x2F; 窗口透明</p></blockquote><h2 id="摸🐟"><a href="#摸🐟" class="headerlink" title="摸🐟"></a>摸🐟</h2><blockquote><p>NBA real-time score &#x2F;&#x2F; 看nba比赛必备</p><p>z-reader &#x2F;&#x2F; 看小说</p><p>daily-anime &#x2F;&#x2F; 每天更新番剧时间</p><p>Random Something &#x2F;&#x2F; 随机产生新闻、人名等…</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编译器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 编译器 </tag>
+            
+            <tag> 开发工具 </tag>
+            
+            <tag> vscode </tag>
             
         </tags>
       
@@ -178,7 +178,7 @@
       <link href="/2022/11/22/%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/"/>
       <url>/2022/11/22/%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%A0%B7%E5%BC%8F/</url>
       
-        <content type="html"><![CDATA[<h1 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h1><p>::-webkit-scrollbar 滚动条整体部分，可以设置宽度啥的<br>::-webkit-scrollbar-button 滚动条两端的按钮<br>::-webkit-scrollbar-track 外层轨道<br>::-webkit-scrollbar-track-piece 内层滚动槽<br>::-webkit-scrollbar-thumb 滚动的滑块<br>::-webkit-scrollbar-corner 边角<br>::-webkit-resizer 定义右下角拖动块的样式</p><p>::-webkit-scrollbar { &#x2F;_ 1 <em>&#x2F; }<br>::-webkit-scrollbar-button { &#x2F;</em> 2 <em>&#x2F; }<br>::-webkit-scrollbar-track { &#x2F;</em> 3 <em>&#x2F; }<br>::-webkit-scrollbar-track-piece { &#x2F;</em> 4 <em>&#x2F; }<br>::-webkit-scrollbar-thumb { &#x2F;</em> 5 <em>&#x2F; }<br>::-webkit-scrollbar-corner { &#x2F;</em> 6 <em>&#x2F; }<br>::-webkit-resizer { &#x2F;</em> 7 _&#x2F; }</p><p>:horizontal  水平方向的滚动条<br>:vertical  垂直 方向的滚动条<br>:decrement  应用于按钮和内层轨道(track piece)。它用来指示按钮或者内层轨道是否会减小视窗的位置(比如，垂直滚动条的上面，水平滚动条的左边。)<br>:increment decrement 类似，用来指示按钮或内层轨道是否会增大视窗的位置(比如，垂直滚动条的下面和水平滚动条的右边。)<br>:start  伪类也应用于按钮和滑块。它用来定义对象是否放到滑块的前面。<br>:end  类似于 start 伪类，标识对象是否放到滑块的后面。<br>:double-button  该伪类以用于按钮和内层轨道。用于判断一个按钮是不是放在滚动条同一端的一对按钮中的一个。对于内层轨道来说，它表示内层轨道是否紧靠一对按钮。<br>:single-button  类似于 double-button 伪类。对按钮来说，它用于判断一个按钮是否自己独立的在滚动条的一段。对内层轨道来说，它表示内层轨道是否紧靠一个 single-button。<br>:no-button  用于内层轨道，表示内层轨道是否要滚动到滚动条的终端，比如，滚动条两端没有按钮的时候。<br>:corner-present  用于所有滚动条轨道，指示滚动条圆角是否显示。<br>:window-inactive  用于所有的滚动条轨道，指示应用滚动条的某个页面容器(元素)是否当前被激活。(在 webkit 最近的版本中，该伪类也可以用于::selection 伪元素。webkit 团队有计划扩展它并推动成为一个标准的伪类)</p><img class="inline-img" src="/%5Bhttps:/tva1.sinaimg.cn/large/7fa1293cly1h8ea5w4xiwj22yb1n5e6y.jpg%5D" style="height:[50]"/><p>*::-webkit-scrollbar { &#x2F;<em>滚动条整体样式</em>&#x2F; width: 8px;&#x2F;<em>定义纵向滚动条宽度</em>&#x2F; height: 8px;&#x2F;<em>定义横向滚动条高度</em>&#x2F; }<br>*::-webkit-scrollbar-thumb { &#x2F;<em>滚动条内部滑块</em>&#x2F; border-radius: 8px; background-color: hsla(220, 4%, 58%, 0.3); transition: background-color 0.3s; }<br>*::-webkit-scrollbar-thumb:hover { &#x2F;<em>鼠标悬停滚动条内部滑块</em>&#x2F; background: #bbb; }<br>*::-webkit-scrollbar-track { &#x2F;<em>滚动条内部轨道</em>&#x2F; background: #ededed; }</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h1><p>::-webkit-scrollbar 滚动条整体部分，可以设置宽度啥的<br>::-webkit-scrollbar-button 滚动条两端的按钮<br>::-webkit-scrollbar-track 外层轨道<br>::-webkit-scrollbar-track-piece 内层滚动槽<br>::-webkit-scrollbar-thumb 滚动的滑块<br>::-webkit-scrollbar-corner 边角<br>::-webkit-resizer 定义右下角拖动块的样式</p><p>::-webkit-scrollbar { &#x2F;_ 1 <em>&#x2F; }<br>::-webkit-scrollbar-button { &#x2F;</em> 2 <em>&#x2F; }<br>::-webkit-scrollbar-track { &#x2F;</em> 3 <em>&#x2F; }<br>::-webkit-scrollbar-track-piece { &#x2F;</em> 4 <em>&#x2F; }<br>::-webkit-scrollbar-thumb { &#x2F;</em> 5 <em>&#x2F; }<br>::-webkit-scrollbar-corner { &#x2F;</em> 6 <em>&#x2F; }<br>::-webkit-resizer { &#x2F;</em> 7 _&#x2F; }</p><p>:horizontal  水平方向的滚动条<br>:vertical  垂直 方向的滚动条<br>:decrement  应用于按钮和内层轨道(track piece)。它用来指示按钮或者内层轨道是否会减小视窗的位置(比如，垂直滚动条的上面，水平滚动条的左边。)<br>:increment decrement 类似，用来指示按钮或内层轨道是否会增大视窗的位置(比如，垂直滚动条的下面和水平滚动条的右边。)<br>:start  伪类也应用于按钮和滑块。它用来定义对象是否放到滑块的前面。<br>:end  类似于 start 伪类，标识对象是否放到滑块的后面。<br>:double-button  该伪类以用于按钮和内层轨道。用于判断一个按钮是不是放在滚动条同一端的一对按钮中的一个。对于内层轨道来说，它表示内层轨道是否紧靠一对按钮。<br>:single-button  类似于 double-button 伪类。对按钮来说，它用于判断一个按钮是否自己独立的在滚动条的一段。对内层轨道来说，它表示内层轨道是否紧靠一个 single-button。<br>:no-button  用于内层轨道，表示内层轨道是否要滚动到滚动条的终端，比如，滚动条两端没有按钮的时候。<br>:corner-present  用于所有滚动条轨道，指示滚动条圆角是否显示。<br>:window-inactive  用于所有的滚动条轨道，指示应用滚动条的某个页面容器(元素)是否当前被激活。(在 webkit 最近的版本中，该伪类也可以用于::selection 伪元素。webkit 团队有计划扩展它并推动成为一个标准的伪类)</p><img class="inline-img" src="/%5Bhttps:/image.baidu.com/search/down?url=https:/tva1.sinaimg.cn/large/7fa1293cly1h8ea5w4xiwj22yb1n5e6y.jpg%5D" style="height:[50]"/><p>*::-webkit-scrollbar { &#x2F;<em>滚动条整体样式</em>&#x2F; width: 8px;&#x2F;<em>定义纵向滚动条宽度</em>&#x2F; height: 8px;&#x2F;<em>定义横向滚动条高度</em>&#x2F; }<br>*::-webkit-scrollbar-thumb { &#x2F;<em>滚动条内部滑块</em>&#x2F; border-radius: 8px; background-color: hsla(220, 4%, 58%, 0.3); transition: background-color 0.3s; }<br>*::-webkit-scrollbar-thumb:hover { &#x2F;<em>鼠标悬停滚动条内部滑块</em>&#x2F; background: #bbb; }<br>*::-webkit-scrollbar-track { &#x2F;<em>滚动条内部轨道</em>&#x2F; background: #ededed; }</p>]]></content>
       
       
       <categories>
